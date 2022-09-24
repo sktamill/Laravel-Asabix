@@ -5,7 +5,6 @@ namespace App\Http\Controllers\V1;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\TagRequest;
 use App\Http\Resources\TagResource;
-use App\Models\PostTag;
 use App\Models\Tag;
 use App\Repositories\Interfaces\TagRepositoryInterface;
 
